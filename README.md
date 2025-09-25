@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AEFFF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Shubham+Maurya!;MERN+Stack+Developer;Web+Dev+%7C+React+%7C+Node.js;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I'm currently working on Web App Development<br>I'm currently Learning about DataBases
 
