@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=shubhammaurya0221&style=for-the-badge&color=blue)
+[![Spotify](https://novatorem-bg6a-git-main-shubhammaurya0221.vercel.app/api/spotify)]([https://open.spotify.com/user/](https://open.spotify.com/track/65wC9POlPSy6jQv5oPQLRe))
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AEFFF&width=600&lines=Hi+There+👋;I'm+Shubham+Maurya!;MERN+Stack+Developer;Next.js+%7C+EJS+%7C+TypeScript;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
