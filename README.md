@@ -1,7 +1,6 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=shubhammaurya0221&style=for-the-badge&color=blue)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AEFFF&width=600&lines=Hi+There+👋;I'm+Shubham+Maurya!;MERN+Stack+Developer;Next.js+%7C+EJS+%7C+TypeScript;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
-
-![Metrics](https://metrics.lecoq.io/shubhammaurya0221?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&introduction=1&lines=1&config.timezone=Asia%2FCalcutta)
-
 
 I'm currently working on Web App Development<br>I'm currently Learning about DataBases
 
