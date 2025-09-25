@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AEFFF&width=600&lines=Hi+There+👋;I'm+Shubham+Maurya!;MERN+Stack+Developer;Next.js+%7C+EJS+%7C+TypeScript;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
-![3D Contributions](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-
 I'm currently working on Web App Development<br>I'm currently Learning about DataBases
 
 Email Me 👉 ✉️ **maurya.shubham0221@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maurya.shubham_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DuoDeveloper01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maurya.shubham0221@gmail.com) 
