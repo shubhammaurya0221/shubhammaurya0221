@@ -82,7 +82,7 @@ I'm currently learning about **Next.js** and **TypeScript**
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
-</p>!
+</p>
 ---
 
 ### 🔝 Top Contributed Repo
