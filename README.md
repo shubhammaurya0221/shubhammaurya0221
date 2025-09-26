@@ -72,9 +72,17 @@ I'm currently learning about **Next.js** and **TypeScript**
 
 ---
 
-### 🎶 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=315km3h7tj6yjcuhyc42zrsllbnm&cover_image=true&theme=default)](https://open.spotify.com/user/315km3h7tj6yjcuhyc42zrsllbnm)
-
+### 🎶 Now, View my Profile while Playing on Spotify
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/shubham-maurya-8b7307289/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/track/4t3NJNTxDwlne22NHtUkAK">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>!
 ---
 
 ### 🔝 Top Contributed Repo
@@ -83,7 +91,7 @@ I'm currently learning about **Next.js** and **TypeScript**
 ---
 
 ## 📈 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=shubhammaurya0221&icon=6&color=12)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/shubhammaurya0221/count.svg)
 
 <!-- Proudly created with DuoDeveloper  -->
 
