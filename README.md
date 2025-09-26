@@ -73,7 +73,7 @@ I'm currently learning about **Next.js** and **TypeScript**
 ---
 
 ### 🎶 Now Playing on Spotify
-[![Spotify](https://novatorem-bg6a.vercel.app/api/spotify)](https://open.spotify.com/track/65wC9POlPSy6jQv5oPQLRe)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=315km3h7tj6yjcuhyc42zrsllbnm&cover_image=true&theme=default)](https://open.spotify.com/user/315km3h7tj6yjcuhyc42zrsllbnm)
 
 ---
 
