@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AEFFF&width=600&lines=Hi+There+👋;I'm+Shubham+Maurya!;MERN+Stack+Developer;Next.js+%7C+EJS+%7C+TypeScript;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
-I'm currently working on Web App Development<br>I'm currently Learning about DataBases
+I'm currently working on Web App Development<br>I'm currently Learning about Next.js and TypeScript
 
 Email Me 👉 ✉️ **maurya.shubham0221@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
