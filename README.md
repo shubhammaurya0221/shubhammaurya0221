@@ -87,14 +87,7 @@ I'm currently learning about **Next.js** and **TypeScript**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubhammaurya0221&limit=5&theme=transparent&combine_all_yearly_contributions=true)  
-
----
-
-## 📈 Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/shubhammaurya0221/count.svg)
-
-See You Soon...
-
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
